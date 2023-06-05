@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\bin\Debug\POE_P2_Final.exe.config
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\bin\Debug\POE_P2_Final.exe
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\bin\Debug\POE_P2_Final.pdb
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\obj\Debug\POE_P2_Final.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\obj\Debug\POE_P2_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\obj\Debug\POE_P2_Final.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\obj\Debug\POE_P2_Final.exe
+C:\Users\User\Desktop\C#\POE_P2_Final\POE_P2_Final\obj\Debug\POE_P2_Final.pdb
